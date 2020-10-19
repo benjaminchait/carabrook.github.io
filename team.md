@@ -1,5 +1,6 @@
 ---
 title: "Ekipa Fanihy"
+layout: default
 ---
 
 <style type="text/css">

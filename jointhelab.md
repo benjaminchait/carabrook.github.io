@@ -1,5 +1,6 @@
 ---
 title: "Join the Lab"
+layout: default
 ---
 
 <style type="text/css">

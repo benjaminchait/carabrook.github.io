@@ -1,5 +1,6 @@
 ---
 title: "Cara Brook"
+layout: default
 ---
 
 <style type="text/css">

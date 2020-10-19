@@ -1,5 +1,6 @@
 ---
 title: "Opportunities"
+layout: default
 ---
 
 <style type="text/css">

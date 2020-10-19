@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+layout: default
 ---
 
 <style type="text/css">
