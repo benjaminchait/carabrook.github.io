@@ -1,22 +1,21 @@
 name: "Brook Lab"
 pagetitle: "Brook Lab @ University of Chicago"
 permalink: ':pagetitle/'
-output_dir: "."
 navbar:
   title: ""
   left:
     - text: "Home"
-      href: index.html
+      href: /
     - text: "Research"
-      href: research_interests.html
+      href: /research_interests
     - text: "Publications"
-      href: publications.html
+      href: /publications
     - text: "Cara Brook"
-      href: carabrook.html
+      href: /carabrook
     - text: "Team"
-      href: team.html
+      href: /team
     - text: "Join the Lab!"
-      href: jointhelab.html
+      href: /jointhelab
     - text: "News"
       href: https://carabrook.github.io/blog
     - text: "E2M2" 
