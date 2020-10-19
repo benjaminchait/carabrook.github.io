@@ -1,8 +1,5 @@
 ---
-pagetitle: "Brook Lab @ University of Chicago"
-output:
-  html_document: default
-  pdf_document: default
+title: "Brook Lab @ University of Chicago"
 ---
 <link rel="shortcut icon" href="fruit-bat-clipart.jpg" />
 
