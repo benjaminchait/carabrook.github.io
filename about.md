@@ -1,5 +1,6 @@
 ---
 title: "Cara E. Brook"
+layout: default
 ---
 
 <style type="text/css">
