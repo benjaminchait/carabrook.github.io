@@ -1,39 +1,39 @@
 title: >
   Brook Lab
 description: >
-  Brook Lab @ University of Chicago
+  Brook Lab at University of Chicago
 permalink: ':pagetitle/'
 timezone: America/Los_Angeles
 
-navbar:
-  title: ""
-  left:
-	- text: "Home"
-	  href: /
-	- text: "Research"
-	  href: /research_interests
-	- text: "Publications"
-	  href: /publications
-	- text: "Cara Brook"
-	  href: /carabrook
-	- text: "Team"
-	  href: /team
-	- text: "Join the Lab!"
-	  href: /jointhelab
-	- text: "News"
-	  href: https://carabrook.github.io/blog
-	- text: "E2M2" 
-	  href: https://carabrook.github.io/E2M2
+# navbar:
+#   title: ""
+#   left:
+# 	- text: "Home"
+# 	  href: /
+# 	- text: "Research"
+# 	  href: /research_interests
+# 	- text: "Publications"
+# 	  href: /publications
+# 	- text: "Cara Brook"
+# 	  href: /carabrook
+# 	- text: "Team"
+# 	  href: /team
+# 	- text: "Join the Lab!"
+# 	  href: /jointhelab
+# 	- text: "News"
+# 	  href: https://carabrook.github.io/blog
+# 	- text: "E2M2" 
+# 	  href: https://carabrook.github.io/E2M2
 
 # google_analytics:
 
-plugins: [jekyll-redirect-from]
+# plugins: [jekyll-redirect-from]
 
-assets:
-  sources:
-	- _assets/css
-	- _assets/images
-	- _assets/img(old)
+# assets:
+#   sources:
+# 	- _assets/css
+# 	- _assets/images
+# 	- _assets/img(old)
 
 pagination:
   enabled: true
