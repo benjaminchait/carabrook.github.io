@@ -1,22 +1,7 @@
 ---
 title: "**Field Technician Position**"
-output:
-  html_document: default
-  pdf_document: default
+layout: default
 ---
-
-<style type="text/css">
-h1.title {
-  font-size: 31px;
-  text-align: left;
-  color:black;
-}
-</style>
-
-
-
-
-
 ### **Work Description**
 
 This one-year position (start and end date are somewhat flexible) will involve co-leading monthly field expeditions for [Ekipa Fanihy](team.html). The new Field Technician will spend approximately 70% of time in the field, in part with Ekipa Fanihy's monthly missions to roost sites for *Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis* in the District of Moramanga, Madagascar. 

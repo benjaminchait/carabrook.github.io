@@ -2,17 +2,6 @@
 title: "Publications"
 layout: default
 ---
-
-<style type="text/css">
-h1.title {
-  font-size: 31px;
-  text-align: left;
-  color:black;
-}
-</style>
-
-<br>
-<div style="text-align: left; font-size: 1.4em;">
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a></div>
 
 <br>

@@ -13,7 +13,7 @@ In the **Brook Lab** in the [Department of Ecology and Evolution](https://ecolog
 We combine tools from field biology, molecular immunology, and epidemiological modeling to understand how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar.
 <br>
 <br>
-<img src="mada-bridge.JPG" style="width:100%; border:10px solid; color:black" align="center">
+<img src="/assets/mada-bridge.JPG" style="width:100%; border:10px solid; color:black" align="center">
 
 <br>
 
