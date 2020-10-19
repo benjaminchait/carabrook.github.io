@@ -1,8 +1,5 @@
 ---
-title: "**Cara E. Brook**"
-output:
-  html_document: default
-  pdf_document: default
+title: "Cara E. Brook"
 ---
 
 <style type="text/css">

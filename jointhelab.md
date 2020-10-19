@@ -1,8 +1,5 @@
 ---
-title: "**Join the Lab**"
-output:
-  html_document: default
-  pdf_document: default
+title: "Join the Lab"
 ---
 
 <style type="text/css">

@@ -1,8 +1,5 @@
 ---
-title: "**Publications**"
-output:
-  html_document: default
-  pdf_document: default
+title: "Publications"
 ---
 
 <style type="text/css">

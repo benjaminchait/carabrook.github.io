@@ -1,8 +1,5 @@
 ---
-title: "**Opportunities**"
-output:
-  html_document: default
-  pdf_document: default
+title: "Opportunities"
 ---
 
 <style type="text/css">

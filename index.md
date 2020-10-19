@@ -1,5 +1,6 @@
 ---
 title: "Brook Lab @ University of Chicago"
+layout: home
 ---
 <link rel="shortcut icon" href="fruit-bat-clipart.jpg" />
 

@@ -1,8 +1,5 @@
 ---
-title: "**Ekipa Fanihy**"
-output:
-  html_document: default
-  pdf_document: default
+title: "Ekipa Fanihy"
 ---
 
 <style type="text/css">
