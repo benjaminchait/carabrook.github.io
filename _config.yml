@@ -2,8 +2,8 @@ title: >
   Brook Lab
 description: >
   Brook Lab at University of Chicago
-permalink: ':pagetitle/'
-timezone: America/Los_Angeles
+# permalink: ':pagetitle/'
+# timezone: America/Los_Angeles
 
 # navbar:
 #   title: ""
@@ -35,11 +35,11 @@ timezone: America/Los_Angeles
 # 	- _assets/images
 # 	- _assets/img(old)
 
-pagination:
-  enabled: true
-  per_page: 10
-  sort_field: 'date'
-  sort_reverse: true
+# pagination:
+#   enabled: true
+#   per_page: 10
+#   sort_field: 'date'
+#   sort_reverse: true
 
-include:
-  - _redirects
+# include:
+#   - _redirects
