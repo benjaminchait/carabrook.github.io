@@ -2,34 +2,26 @@
 title: "Publications"
 layout: default
 ---
-<a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a></div>
+<a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
 <br>
 
-<div style="text-align: left; font-size: 1.4em;">
 **In Review**
-</div>
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. In Review. Modeling cross-species viral transmission and predicting zoonotic potential. *Nature Microbiology.*
 
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Biodiversity and Conservation.*
 
-<div style="text-align: left; font-size: 1.4em;">
 **In Revision**
-</div>
 
 - Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
 
-<div style="text-align: left; font-size: 1.4em;">
 **In Press**
-</div>
 
 - Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
 
-<div style="text-align: left; font-size: 1.4em;">
 **2020**
-</div>
 
 - Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
 
@@ -42,9 +34,7 @@ layout: default
     - Profiled in the National Science Foundation's '[4 Awesome Discoveries](https://www.youtube.com/watch?v=y5_g_pjf0eE&feature=youtu.be)' video series 
     - Covered in [The Economist](https://www.economist.com/science-and-technology/2020/04/18/bats-spread-viruses), [Science News](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people), [Berkeley News](https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/), the [Daily Cal](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people)
 
-<div style="text-align: left; font-size: 1.4em;">
 **2019**
-</div>
 
 -	**Brook CE**. 2019. A batty concept goes viral. *Nature Ecology & Evolution.* 3(12): 1620-1621. doi: [10.1038/s41559-019-1045-5](https://www.nature.com/articles/s41559-019-1045-5).
 
@@ -56,27 +46,19 @@ layout: default
 
 -	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L\* and **Brook CE**\*. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12(51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). \*=equal senior contributions
 
-<div style="text-align: left; font-size: 1.4em;">
 **2018**
-</div>
 
 - **Brook CE**, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. *Conservation Biology.* doi: [10.1111/cobi.13151](https://doi.org/10.1111/cobi.13151).
 
-<div style="text-align: left; font-size: 1.4em;">
 **2017**
-</div>
 
 - **Brook CE**, Bai Y, Yu EO, Ranaivoson HC, Shin H, Dobson AP, Metcalf CJE\*, Kosoy MY\* and Dittmar K\*. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20:56-66. \*= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
 
-<div style="text-align: left; font-size: 1.4em;">
 **2016**
-</div>
 
 - Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M\*\*, and Metcalf CJE. 2016\*\*. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13(177): 20151101. \* =  equal lead contributions; \*\*=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
 
-<div style="text-align: left; font-size: 1.4em;">
 **2015**
-</div>
 
 - **Brook CE**, Beauclair R, Ngwenya O, Worden L,  Ndeffo-Mbah M, Lietman TM, Satpathy SK,  Galvani AP, and Porco TP. 2015. Spatial heterogeneity in projected leprosy trends in India. *Parasites & Vectors.* 8(542): 2-11. doi: [10.1186/s13071-015-1124-7](https://doi.org/10.1186/s13071-015-1124-7).
 
@@ -90,8 +72,6 @@ layout: default
 
 - Young HS, McCauley DJ, Dirzo R, Goheen JR, Agwanda B, **Brook CE**, Castillo EO, Ferguson AW, Nyaga SN, McDonough MM, Palmer TM, Pringle RM, Young TP, and Helgen KM. 2015. Context dependence of land-use change on small mammal communities. *Ecological Applications.* (25):348–60. doi: [10.1890/14-0995.1](https://doi.org/10.1890/14-0995.1).
 
-<div style="text-align: left; font-size: 1.4em;">
 **2013**
-</div>
 
 - **Brook CE**, Bernstein DP, and Hadly EA. 2013. Human food subsidies and Common Raven occurrence in Yosemite National Park, CA. *Western Birds.* 44(2):127-34.
