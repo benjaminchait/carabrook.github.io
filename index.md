@@ -20,7 +20,7 @@ We combine tools from field biology, molecular immunology, and epidemiological m
 
 **We are recruiting PhD students, postdocs, and field technicians!**
 <br>
-**Please visit '[Join the Lab!](jointhelab.html)' for more information.**
+**Please visit '[Join the Lab!](/jointhelab)' for more information.**
 
 <!-- <div style="text-align: left; font-size: 1.1em;  color:black;"> -->
 **Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.**
