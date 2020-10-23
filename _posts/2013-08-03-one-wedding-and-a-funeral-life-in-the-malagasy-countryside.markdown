@@ -1,6 +1,7 @@
 ---
 layout: post
-title: One Wedding and a Funeral: Life in the Malagasy Countryside
+title >
+ One Wedding and a Funeral: Life in the Malagasy Countryside
 date: 2013-08-03 00:00:00 +0300
 description: # Add post description (optional)
 img: evaline_christian_cara.jpg # Add image post (optional)
