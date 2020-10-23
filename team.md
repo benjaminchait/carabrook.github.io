@@ -16,7 +16,7 @@ layout: default
 
 **Santino Andry**
 <img src="/assets/santino_andry.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2020. </div>
+**Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2020.
 <br>
 <br>
 <br>
