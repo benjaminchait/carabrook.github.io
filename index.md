@@ -6,7 +6,6 @@ layout: home
 
 <!-- <link rel="stylesheet" href="styles.css" type="text/css"> -->
 
-<br>
 In the **Brook Lab** in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the **University of Chicago**, we work at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections, pathogens transmitted from wildlife to human hosts. 
 <br>
 <br>
