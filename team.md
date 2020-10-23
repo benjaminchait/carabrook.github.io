@@ -3,7 +3,7 @@ title: "Ekipa Fanihy"
 layout: default
 ---
 <img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left">
-*Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](www.brooklab.org/blog) to follow our progress in the field! </div>
+*Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](www.brooklab.org/blog) to follow our progress in the field!
 <br>
 
 <div style="clear:both;">&nbsp</div>
