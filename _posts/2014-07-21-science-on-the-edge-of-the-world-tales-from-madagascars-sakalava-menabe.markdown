@@ -1,7 +1,6 @@
 ---
 layout: post
-title >
- Science on the Edge of the World: Tales from Madagascar's Sakalava Menabe
+title: "Science on the Edge of the World: Tales from Madagascar's Sakalava Menabe"
 date: 2014-07-21 00:00:00 +0300
 description: # Add post description (optional)
 img: cara_christian_anesthesia_machine.jpg # Add image post (optional)
